@@ -7,7 +7,7 @@ setup(
     description="Intent State Machine (Proposal #78) - 追踪与治理 Agent 意图漂移的核心引擎",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    author="Volcano Security Team",
+    author="Xiaoxue Security Team",
     url="https://github.com/senmud/intent-state-machine",
     install_requires=[
         "sentence-transformers>=2.2.2",
